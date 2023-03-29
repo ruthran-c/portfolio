@@ -7,6 +7,6 @@ there are a couple of ways to circumvent and read teh article:
 1. Using Safari's 'Reader View' should work around the pop-up and allow a seamless reading experience.
 2. Using the print option in your browser with `CMD+P` or under options "File -> Print" should also work.
 
-Alternatively, I have downloaded a copy of the article into my [Google drive](http://potfolio.ruthran.fastmail.com/shared/) you can download from.
+Alternatively, you can download a copy that I have stored in my [Storage drive](http://potfolio.ruthran.fastmail.com/shared/).
 
 Happy Reading!
