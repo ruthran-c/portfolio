@@ -5,8 +5,8 @@ Here is the link to the blog talking about Hospital IQ's surgery case length pre
 **Note:** Since the acquisition of Hospital IQ by LeanTaaS, access to the website is limited with a pop-up message obstructing the blog entry; 
 there are a couple of ways to circumvent and read teh article:
 1. Using Safari's 'Reader View' should work around the pop-up and allow a seamless reading experience.
-2. Using the print option in your browser with ~CMD+P~ or under options "File -> Print" should also work.
+2. Using the print option in your browser with `CMD+P` or under options "File -> Print" should also work.
 
-Alternatively, I have downloaded a copy of the article into my [Google drive]() you can download from.
+Alternatively, I have downloaded a copy of the article into my [Google drive](http://potfolio.ruthran.fastmail.com/shared/) you can download from.
 
 Happy Reading!
