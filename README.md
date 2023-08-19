@@ -5,4 +5,4 @@
 Work in progress...
 
 Blog:
-[The power of actionable intelligence through AI](./blog/actionable-intelligence/)
+[The power of actionable intelligence through AI](./_posts/actionable-intelligence/)
